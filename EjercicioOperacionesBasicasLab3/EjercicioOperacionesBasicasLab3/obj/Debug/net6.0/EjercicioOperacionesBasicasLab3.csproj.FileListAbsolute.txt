@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\bin\Debug\net6.0\EjercicioOperacionesBasicasLab3.exe
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\bin\Debug\net6.0\EjercicioOperacionesBasicasLab3.deps.json
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\bin\Debug\net6.0\EjercicioOperacionesBasicasLab3.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\bin\Debug\net6.0\EjercicioOperacionesBasicasLab3.dll
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\bin\Debug\net6.0\EjercicioOperacionesBasicasLab3.pdb
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\EjercicioOperacionesBasicasLab3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\EjercicioOperacionesBasicasLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\EjercicioOperacionesBasicasLab3.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\EjercicioOperacionesBasicasLab3.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\EjercicioOperacionesBasicasLab3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\EjercicioOperacionesBasicasLab3.dll
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\refint\EjercicioOperacionesBasicasLab3.dll
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\EjercicioOperacionesBasicasLab3.pdb
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\EjercicioOperacionesBasicasLab3.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjercicioOperacionesBasicasLab3\EjercicioOperacionesBasicasLab3\obj\Debug\net6.0\ref\EjercicioOperacionesBasicasLab3.dll
