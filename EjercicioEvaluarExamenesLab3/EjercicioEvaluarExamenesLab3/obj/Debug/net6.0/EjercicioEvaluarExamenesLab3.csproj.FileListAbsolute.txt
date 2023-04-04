@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\bin\Debug\net6.0\EjercicioEvaluarExamenesLab3.exe
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\bin\Debug\net6.0\EjercicioEvaluarExamenesLab3.deps.json
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\bin\Debug\net6.0\EjercicioEvaluarExamenesLab3.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\bin\Debug\net6.0\EjercicioEvaluarExamenesLab3.dll
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\bin\Debug\net6.0\EjercicioEvaluarExamenesLab3.pdb
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\EjercicioEvaluarExamenesLab3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\EjercicioEvaluarExamenesLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\EjercicioEvaluarExamenesLab3.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\EjercicioEvaluarExamenesLab3.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\EjercicioEvaluarExamenesLab3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\EjercicioEvaluarExamenesLab3.dll
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\refint\EjercicioEvaluarExamenesLab3.dll
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\EjercicioEvaluarExamenesLab3.pdb
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\EjercicioEvaluarExamenesLab3.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjercicioEvaluarExamenesLab3\EjercicioEvaluarExamenesLab3\obj\Debug\net6.0\ref\EjercicioEvaluarExamenesLab3.dll
